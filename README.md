@@ -1,1 +1,2 @@
 # bc-chatboot
+Integrating audio features into the Gemini clone could make the platform more accessible to users with visual impairments or those who prefer auditory interaction. Features such as voice navigation, screen readers, and audio alerts for price movements or account updates can enhance accessibility and inclusivity, ensuring that a wider range of users can participate in cryptocurrency trading.
